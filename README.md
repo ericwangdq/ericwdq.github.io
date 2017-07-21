@@ -1,2 +1,2 @@
-# wdq1103.github.io
+# ericwdq.github.io
 Personal site
