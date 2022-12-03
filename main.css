@@ -72,11 +72,11 @@
   font-size: 41px;
   line-height: 1;
   letter-spacing: 0.26em;
-  font-weight: 400;
+  font-weight: 700;
   /* font-family: Georgia; */
   margin-bottom: 0px;
-  margin-top: -5px;
-  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+  margin-top: -2px;
+  font-family: fantasy;
 }
 .position {
   position: relative;
@@ -86,17 +86,17 @@
   letter-spacing: 0.26em;
   font-weight: 300;
   font-style: italic;
-  font-family: Times;
+  font-family: serif;
   margin-bottom: 0;
   margin-top: 15px;
   /*text-transform: uppercase;*/
 }
 .byline {
-  margin-top: 0px;
+  margin-top: 10px;
   margin-bottom: 0;
   position: relative;
   z-index: 2;
-  font-family: serif;
+  font-family: sans-serif;
   font-size: 13px;
   line-height: 2.2;
   font-weight: 300;
